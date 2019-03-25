@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-push-bd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "automatic push link to baidu",
   "main": "index.js",
   "keywords": [
@@ -18,5 +18,8 @@
     "url": "https://github.com/ainiok/gitbook-plugin-baidu-ziyuan/issues"
   },
   "author": "ainiok",
-  "license": "MIT"
+  "license": "MIT",
+  "gitbook": {
+    "properties": {}
+  }
 }
