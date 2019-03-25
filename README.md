@@ -4,7 +4,7 @@
 You can use install it via **NPM**:
 
 ```
-$ npm install gitbook-plugin-xy-ba
+$ npm install push-bd
 ```
 
 不需要任何配置
