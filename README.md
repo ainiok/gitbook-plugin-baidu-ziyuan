@@ -1,10 +1,8 @@
 百度资源 - 链接提交
 ==============
 
-You can use install it via **NPM**:
+在 `book.json` 里面添加 `push-bd` 
 
 ```
-$ npm install push-bd
+$ gitbook install 
 ```
-
-不需要任何配置
